@@ -1,0 +1,250 @@
+*{
+ margin: 0px;
+ padding: 0px;
+ box-sizing: border-box;
+}
+html{
+ scroll-behavior: smooth;
+}
+body{
+ background-image:url(../img/HD-1.avif);
+ background-attachment: fixed;
+ background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+.navigation{
+ background-color: rgb(12 58 93);
+ padding: 10px;
+ text-align: right; 
+}
+.navigation li{
+ list-style: none;
+ display: inline-block;
+ padding: 10px;
+}
+.navigation li a{
+color: white;
+text-decoration: none;
+padding: 8px;
+}
+.navigation li a:hover{
+ color:  rgb(121, 121, 221);
+}   
+.hadi a{
+margin-right: 725px;
+font-size: 20px;
+font-style: bold;
+}
+.top{
+background-color:  white;
+ padding:  40px 0px;
+ margin: 0 auto;
+ text-align: center;
+ border: 2px solid white;
+    margin-top: 380px;
+     width: 750px;
+     padding-left:10px;
+     padding-right:10px;
+     max-width: 100%;
+     overflow: hidden;
+}
+.top h1{
+ font-size: 50px;
+font-weight: lighter;
+color: rgb(12 58 93);
+}
+.boxes button{
+background-color: white;
+color: rgb(12 58 93);
+width: 180px;
+height: 55px;
+padding: 8px;
+border: 1px solid black;
+} 
+.top button{
+background-color: white;
+color: rgb(12 58 93);
+width: 180px;
+height: 55px;
+padding: 8px;
+border: 1px solid black;
+}
+.top h3{
+ color: black;
+ font-weight: lighter;
+}
+.boxes button:hover{
+ background-color: rgb(12 58 93);
+color: white;
+width: 180px;
+height: 55px;
+padding: 8px;
+border: 1px solid white;
+}
+.top button:hover{
+ background-color: rgb(12 58 93);
+color: white;
+width: 180px;
+height: 55px;
+padding: 8px;
+border: 1px solid white;
+
+}
+.box1{
+ background-color: white;
+ padding:  20px;
+ width: 100%;
+ height: 600px;
+ 
+ font-size: 20px;
+ text-align: center;
+ border: 2px solid white;
+ margin: 0;
+}
+.box2{
+ background-color: white;
+ padding:  20px;
+ width: 100%;
+ height: 600px;
+ 
+ font-size: 20px;
+ text-align: center;
+ border: 2px solid white;
+  margin: 0;
+}
+.box3{
+ background-color: white;
+ padding:  20px;
+ width: 100%;
+ height: 600px;
+ 
+ font-size: 20px;
+ text-align: center;
+ border: 2px solid white;
+  margin: 0;
+}
+.boxes{
+ font-size: large;
+ font-weight: lighter;
+ display: flex;
+ position: relative;
+ top: -10px;
+ width: 1800x;
+}
+.boxes h2{
+  color:rgb(12 58 93);
+   font-family: Arial, Helvetica, sans-serif;
+ font-weight: lighter;
+ font-size: 40px;
+ color:rgb(12 58 93);
+}
+.boxes p{
+ color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 100px;
+ margin-right: 100px;
+}
+.div1{
+ background-image: url(../img/HD-2.avif);
+ background-attachment: fixed;
+ background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding:  20px;
+ width: 100%;
+ height: 700px;
+
+ left: 0;
+ right: 0;
+ background: rgb(165 200 207 / 70%);
+ margin-top: -20px;
+}
+.div1 h2  {
+  font-family: Arial, Helvetica, sans-serif;
+ font-weight: lighter;
+ font-size: 40px;
+ color:rgb(12 58 93);
+ margin-top: 100px;
+
+}
+.div1 p{
+ margin-left: 700px;
+ margin-right: 700px;
+ font-size: 20px;
+ text-align: justify;
+}
+.div2{
+ background-color: rgb(12 58 93);
+ padding: 30px 0px;
+ width: 100%;
+ height: 100%;
+ margin: 0 auto;
+ text-align: center;
+}
+ .div2 h2{
+ color: white;
+ font-weight: 300;
+}
+input{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 7px;
+    padding-bottom: 10px;
+    background-color: rgb(12 58 93);
+    color: white;
+    border: 0.5px solid white;
+    font-size: 18px;
+  }
+  input:focus{
+  outline: none;
+  }
+  label{
+   color: white;
+   padding-right: 180px;
+  }
+
+ input:hover{
+  background-color: aliceblue;
+  border: 0.5px solid white;
+  color: black;
+  font-size: 18px;
+  font-weight: lighter;
+  }
+  button{
+
+    background-color: white;
+    color: black;
+    width: 160px;
+    height: 50px;
+    padding: 8px;
+    border: 0.5px solid white;
+    border-radius: 5px;
+    font-size: 18px;
+  font-weight: lighter;
+  }
+  button:hover{
+  
+    background-color:rgb(12 58 93);
+    color: black;
+    width: 160px;
+    height: 50px;
+    padding: 8px;
+    border: 0.5px solid white;
+    border-radius: 5px;
+    font-size: 18px;
+  font-weight: lighter;
+  font-weight: 20px;
+}
+.line{
+   border: none;
+   height: 1px;
+   background-color: grey;
+   width: 45%;
+   margin-left: auto;
+   margin-right: auto;
+  }
+
+
