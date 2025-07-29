@@ -1,3 +1,4 @@
 # HTML-PROJECTS
-Here are the some HTML websites deigns for beginners!
+Here Are The Some HTML Websites Deigns For Beginners!
 By Abdul-Hadi.
+A Responsive Certified Web-Developer!
